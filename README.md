@@ -205,16 +205,6 @@ _Important: some streams may work and some may not, you can never be sure with I
 
 ---
 
-**Miscellaneous**
-
-| Name  | Link | Language | Remote | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Peario](https://www.reddit.com/r/StremioAddons/comments/g6klce/remote_addon_watch_together_with_friends_with_the/) | [direct link](https://peario.xyz/) | All | Yes | watch with friends |
-| Custom M3U Playlist | [settings](https://custom-playlist.herokuapp.com/configure) | All | Yes | add m3u lists to Stremio |
-| [Discord Rich Presence](https://www.reddit.com/r/StremioAddons/comments/dgcezb/local_addon_discord_rich_presence_for_stremio/) | available with [PMS](/PimpMyStremio.md) | All | No | adds notification to Discord when watching |
-
----
-
 **Spin-off Projects**
 
 - [PimpMyStremio](/PimpMyStremio.md)
