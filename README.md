@@ -1,12 +1,6 @@
 # The Great List of Stremio Addons
 
-**Important: Not all of the community addons are available in Stremio's default addon catalog, [go to this link](https://danamag.github.io/stremio-addons-list/) to learn how to load the complete list of addons in Stremio!**
-
 A curated list of all known / working Stremio Addons, split by category, in order of relevance.
-
-## How to install individual addon
-You can go to the addon website listed here and click the `Install` button, this will open Stremio and ask you if you want to install it.  
-Alternatively you can copy the `manifest` link in this list, then open Stremio, click the puzzle icon, and paste this link into the `Search Addon` field. You will be prompted to install it. 
 
 ---
 
@@ -45,6 +39,7 @@ Alternatively you can copy the `manifest` link in this list, then open Stremio, 
 | Name  | Link | Language | Remote | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Trailers.to | [manifest](https://trailers.to/manifest.json) | En | Yes | shows an ad for Trailers.to if the stream is unavailable |
+| [Awesome Everything](https://www.reddit.com/r/StremioAddons/comments/fl8xc5/remote_addon_debrid_flicks_for_stremio_real_debrid/) | available with [PMS](/PimpMyStremio.md) | En | No | |
 | [Lobo-guara Series (BR addon)](https://www.reddit.com/r/StremioAddons/comments/li791n/remote_addon_loboguara_series_br_addon_for_stremio/) | [manifest](https://94c8cb9f702d-lobo-guara-addon.baby-beamup.club/manifest.json) | Pt / Br | Yes | series only |
 
 ---
@@ -62,7 +57,7 @@ Alternatively you can copy the `manifest` link in this list, then open Stremio, 
 | Name  | Link | Language | Remote | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Anime Brasil](https://www.reddit.com/r/StremioAddons/comments/kukm7e/remote_addon_anime_brasil_for_stremio/) | [manifest](https://94c8cb9f702d-anime-tv-addon.baby-beamup.club/manifest.json) | Pt / Br | Yes | has own catalog |
-| Hanime.tv | [manifest](https://a0da031547f5-hanime-stremio-main.baby-beamup.club/manifest.json) | En / Jp | Yes | NSFW |
+| Hanime.tv | [manifest](https://94c8cb9f702d-hanime-tv-addon.baby-beamup.club/manifest.json) | En / Jp | Yes | NSFW |
 
 
 ---
@@ -154,7 +149,6 @@ _Important: some streams may work and some may not, you can never be sure with I
 
 | Name  | Link | Language | Remote | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Porn Tube | [manifest](https://dirty-pink.herokuapp.com/manifest.json) | En | Yes | |
 | [XNXX](https://www.reddit.com/r/StremioAddons/comments/fuxf1e/remote_addon_xnxx_porn_for_stremio/) | [manifest](https://xnxx.unlimited-fun.xyz/manifest.json) | En | Yes | |
 | [Porn+](https://www.reddit.com/r/StremioAddons/comments/b2x9yd/remote_addon_porn_for_stremio/) | [manifest](https://33f53079954e-porn.beamup.dev/manifest.json) | En | Yes | RedTube only |
 | Hanime.tv | [manifest](https://94c8cb9f702d-hanime-tv-addon.baby-beamup.club/manifest.json) | En / Jp | Yes | Hentai |
@@ -180,7 +174,6 @@ _Important: some streams may work and some may not, you can never be sure with I
 | [IMDB Catalogs](https://www.reddit.com/r/StremioAddons/comments/b9dghx/remote_addon_anime_kitsu_for_stremio/) | [settings](https://1fe84bc728af-imdb-catalogs.baby-beamup.club/configure) - [manifest](https://1fe84bc728af-imdb-catalogs.baby-beamup.club/manifest.json) | All | Yes | optional setting to add rating posters from RPDB |
 | [Rotten Tomatoes Catalogs](https://www.reddit.com/r/StremioAddons/comments/bx1sdr/remote_addon_rotten_tomatoes_catalogs_for_stremio/) | [settings](https://rt.baby-supernode.xyz/configure) - [manifest](https://rt.baby-supernode.xyz/manifest.json) | All | Yes | optional setting to add rating posters from RPDB |
 | [RPDB Catalogs](https://www.reddit.com/r/StremioAddons/comments/m02v4s/remote_addon_rpdb_catalogs_for_stremio/) | [settings](https://1fe84bc728af-rpdb.baby-beamup.club/configure) | All | Yes | paid addon, adds posters with ratings |
-| Streaming Catalogs | [settings](https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/configure) | All | Yes | catalogs for streaming services with user settings |
 | [Top Movies](https://www.reddit.com/r/StremioAddons/comments/fkoqs2/remote_addon_top_movies_for_stremio/) | [manifest](https://stremio-top-movies.deflix.tv/manifest.json) | En | Yes | catalogs for various top lists |
 | [Film Festivals](https://www.reddit.com/r/StremioAddons/comments/hqb7hg/remote_addon_film_festivals_for_stremio/) | [manifest](https://stremio-film-festivals.deflix.tv/manifest.json) | En | Yes | catalogs for various winners of festivals |
 | [Top Seeded Movies by Zooqle](https://www.reddit.com/r/StremioAddons/comments/aqbbak/remote_addon_top_seeded_movies_series_by_zooqle/) | [manifest](https://zooq.baby-supernode.xyz/manifest.json) | En | Yes | |
@@ -202,6 +195,15 @@ _Important: some streams may work and some may not, you can never be sure with I
 | English Portuguese Br Subtitles | [manifest](https://subtitles-stremio-addon.herokuapp.com/manifest.json) | All | Yes | includes other languages as well |
 | [Titlovi.com Subtitles](https://www.reddit.com/r/StremioAddons/comments/lpp6ic/remote_addon_titlovicom_for_stremio/) | [manifest](https://stremio-titlovi-com.herokuapp.com/manifest.json) | All | Yes | English, Bosnian, Macedonian, Croatian, Serbian & Slovenian |
 | [Wizdom Subtitles](https://www.reddit.com/r/StremioAddons/comments/jc8b8q/ive_built_an_addon_for_hebrew_subtitles/) | [manifest](https://4b139a4b7f94-wizdom-stremio-v2.baby-beamup.club/manifest.json) | Iw | Yes | Hebrew |
+
+---
+
+**Miscellaneous**
+
+| Name  | Link | Language | Remote | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Peario](https://www.reddit.com/r/StremioAddons/comments/g6klce/remote_addon_watch_together_with_friends_with_the/) | [direct link](https://peario.xyz/) | All | Yes | watch with friends |
+| [Discord Rich Presence](https://www.reddit.com/r/StremioAddons/comments/dgcezb/local_addon_discord_rich_presence_for_stremio/) | available with [PMS](/PimpMyStremio.md) | All | No | adds notification to Discord when watching |
 
 ---
 
